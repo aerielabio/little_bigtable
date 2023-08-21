@@ -1,0 +1,1 @@
+./build/little_bigtable -db-file=build/aerie.db
